@@ -75,17 +75,8 @@
 		</item>
 		<!-- Al Jazeera -->
 		<item>
-			<title>Al Jazeera English</title>
-			<link>rtmp://aljazeeraflashlivefs.fplive.net:1935/aljazeeraflashlive-live/aljazeera_english_2.flv swfUrl=http://cdn.livestream.com/chromelessPlayer/v21/playerapi.swf pageUrl=http://english.aljazeera.net/watch_now/ swfVfy=true live=true tcUrl=rtmp://aljazeeraflashlivefs.fplive.net:1935/aljazeeraflashlive-live/</link>
-			<thumbnail>http://images.tvrage.com/shows/8/7024.jpg</thumbnail>
-			<country>United States</country>
-			<theme>News</theme>
-			<parentalcontrol>1</parentalcontrol>
-			<favorite>No</favorite>
-		</item>
-		<item>
-			<title>Al Jazeera Podcasts</title>
-			<link>http://www.aljazeera.com/programmes/general/2008/09/2008915153339521328.html</link>
+			<title>Al Jazeera Live English</title>
+			<link>rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live/aljazeera_eng_high</link>
 			<thumbnail>http://images.tvrage.com/shows/8/7024.jpg</thumbnail>
 			<country>United States</country>
 			<theme>News</theme>
