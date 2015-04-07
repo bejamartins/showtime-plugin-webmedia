@@ -76,7 +76,7 @@
 		<!-- Al Jazeera -->
 		<item>
 			<title>Al Jazeera Live English</title>
-			<link>rtmp://$OPT:rtmp-raw=rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live/ playpath=aljazeera_eng_high swfUrl=http://www.watcharab.com/tv/swf/al_jazeera_english.swf/[[DYNAMIC]]/2/[[DYNAMIC]]/3 live=1 pageUrl=http://www.watcharab.com/tv/swf/al_jazeera_english.swf</link>
+			<link>rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live/ swfUrl=http://www.watcharab.com/tv/swf/al_jazeera_english.swf pageUrl=http://www.watcharab.com/tv/swf/al_jazeera_english.swf swfVfy=true live=true</link>
 			<thumbnail>http://images.tvrage.com/shows/8/7024.jpg</thumbnail>
 			<country>United States</country>
 			<theme>News</theme>
