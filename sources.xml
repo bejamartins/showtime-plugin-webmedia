@@ -76,7 +76,7 @@
 		<!-- Al Jazeera -->
 		<item>
 			<title>Al Jazeera Live English</title>
-			<link>rtmp://$OPT:rtmp-raw=rtmp://d.cdn.newschat.tv/edge playpath=aljazusa_live swfUrl=http://msnbclive.eu/player.swf live=1 pageUrl=http://www.livenewschat.eu/al-jazeera-america/</link>
+			<link>rtmp://livestfslivefs.fplive.net/livestfslive-live/</link>
 			<thumbnail>http://images.tvrage.com/shows/8/7024.jpg</thumbnail>
 			<country>United States</country>
 			<theme>News</theme>
