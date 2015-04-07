@@ -80,7 +80,6 @@
 			<thumbnail>http://images.tvrage.com/shows/8/7024.jpg</thumbnail>
 			<country>United States</country>
 			<theme>News</theme>
-			<type>Videocast</type>
 			<parentalcontrol>1</parentalcontrol>
 			<favorite>No</favorite>
 		</item>
@@ -90,7 +89,6 @@
 			<thumbnail>http://images.tvrage.com/shows/8/7024.jpg</thumbnail>
 			<country>United States</country>
 			<theme>News</theme>
-			<type>Podcast</type>
 			<parentalcontrol>1</parentalcontrol>
 			<favorite>No</favorite>
 		</item>
